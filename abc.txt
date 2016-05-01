@@ -1,1 +1,5 @@
-first entry in master
+first entry +
+first entty in new branch /
+2nd entry in master -
+2nd update in new feture branch -
+3rd update in master *
